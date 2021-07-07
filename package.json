@@ -4,7 +4,7 @@
   "description": "This script is used to do a simple exponential calculation, if you want an estimate on your daily returns over a period of time.",
   "main": "index.js",
   "scripts": {
-    "start": "npx run-func index.js calculate",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
