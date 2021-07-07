@@ -2,6 +2,12 @@
 This script is used to do a simple exponential calculation, if you want an estimate on your daily returns over a period of time.
 
 ## How to run
+`npm install` to install the dependencies
+
+`node index.js` and you will be prompted
+
+or directly input
+
 `npx run-func index.js calculate buy sell length init`
 
 ## Example

@@ -1,0 +1,24 @@
+{
+  "name": "CryptoCalculator",
+  "version": "1.0.0",
+  "description": "This script is used to do a simple exponential calculation, if you want an estimate on your daily returns over a period of time.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx run-func index.js calculate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y4my4my4m/SimpleCryptoCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y4my4my4m/SimpleCryptoCalculator/issues"
+  },
+  "homepage": "https://github.com/y4my4my4m/SimpleCryptoCalculator#readme",
+  "dependencies": {
+    "prompt": "^1.1.0"
+  }
+}
